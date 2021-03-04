@@ -34,3 +34,7 @@ main{
     border-radius: 5px;
     box-shadow: 5px 5px 1px 0px #313131;
 }
+
+p{
+    font-style: italic;
+}
