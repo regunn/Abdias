@@ -35,7 +35,6 @@ main{
     box-shadow: 5px 5px 1px 0px #313131;
 }
 
-<<<<<<< HEAD
 img{
     border: 1px solid black;
     margin-top: 10px;
@@ -47,11 +46,9 @@ p{
     font-style: italic;
 }
 
-figcaption{
-=======
+figcaption,
 footer{
     margin-top: 10px;
->>>>>>> db927f811256cd496d09d56cdf9ad8782708a5ed
     border: 1px solid black;
     padding: 10px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -59,9 +56,5 @@ footer{
     background-color: #000000;
     border-radius: 5px;
     color: white;
-<<<<<<< HEAD
     box-shadow: 5px 5px 1px 0px #313131;
-=======
-    box-shadow: 5px 5px 1px 0px #313131; 
->>>>>>> db927f811256cd496d09d56cdf9ad8782708a5ed
 }
